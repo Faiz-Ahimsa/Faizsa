@@ -1,1 +1,1 @@
-# Faizsa
+print("Hello world!")
