@@ -1,1 +1,1 @@
-print("Hello world!")
+Nama : Faiz Satria Ahimsa
